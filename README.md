@@ -21,5 +21,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-TODO: Implement a streaming/messaging service for users to subscribe with their email and get a word of the day to their inbox
+TODO: Implement an email service for users to subscribe with their email and get a word of the day to their inbox
+
+options: RabbitMQ, AWS SQS
 
